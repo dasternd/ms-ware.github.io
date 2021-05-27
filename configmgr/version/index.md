@@ -26,4 +26,7 @@ Configuration Manager из состава System Center 2016 используе�
 
 Каждая версия обновления начиная с версии 1511 поддерживалась в течение 12 месяцев после ее выпуска, но с ветки 1710 срок поддержки увеличился до 18 месяцев.
 
-С версии 1910 продукт стал именоваться Microsoft Edpoint Manager Configuration Manager.
+[С версии 1910 продукт стал именоваться Microsoft Edpoint Manager Configuration Manager.](https://docs.microsoft.com/ru-ru/configmgr/core/understand/what-happened-to-sccm)
+
+![](https://docs.microsoft.com/ru-ru/configmgr/core/servers/manage/media/servicing_support_timeline.png)
+
