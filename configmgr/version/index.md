@@ -1,7 +1,5 @@
 ## История версий Configuration Manager
 
-![](ConfigMgrVersion.png)
-
 История Configuration Manager начинается с 1994 года. Тогда продукт назывался Microsoft Systems Management Server версии 1.0.
 
 В 1999 году после промежуточных - минорных выпусков корпорация Microsoft выпустила очередную мажорную версию 2.0.
