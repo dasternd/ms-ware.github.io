@@ -1,3 +1,1 @@
-# Заметочник по технологиям Microsoft
-
-[История версий Configuration Manager](/configmgr/version/)
+# Перечень заметок по технологиям Microsoft
