@@ -1,3 +1,4 @@
 # Перечень заметок по технологиям Microsoft
 
-[История версий Configuration Manager](/configmgr/version/)
+[Configuration Manager](./configmgr)
+[Windows Server](./windows/server)
