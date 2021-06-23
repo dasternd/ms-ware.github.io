@@ -1,4 +1,4 @@
 # Перечень заметок по технологиям Microsoft
 
-[Configuration Manager](./configmgr)
-[Windows Server](./windows/server)
+- [Configuration Manager](./configmgr)
+- [Windows Server](./windows/server)
