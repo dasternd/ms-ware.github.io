@@ -91,5 +91,7 @@ Always On VPN в Windows 10 это следующий этап развития 
 	– Доменный ПК: W10-01.ms-ware.local (Enterprise)
 	– ПК в рабочей группе: W10-02 (Pro)
 	– Пользователи AlwaysOnVPN: ms-ware\User1; ms-ware\User2 (password:P@$$w0rd)
-	- Доступность портов на VPN-сервере: UDP 500, UDP 4500.
+	- Доступность портов на VPN-сервере: UDP 500, UDP 4500
+
+	
 
