@@ -1,4 +1,4 @@
-# Понимание Always On VPN в Windows 10
+# Общеее понимание о решении Always On VPN
 
 Always On VPN в Windows 10 это следующий этап развития решения Microsoft для организации безопасного доступа клиентов к корпоративной сети. Always On VPN решение призвано заменить DirectAccess.
 
