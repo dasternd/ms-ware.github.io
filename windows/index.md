@@ -1,3 +1,3 @@
 ## Windows
 
-[Windows Server](./server)
+[Always On VPN](./alwaysonvpn)
